@@ -1,10 +1,7 @@
    
 </p>
 <h1 align="center"> Mobile Price Range Prediction </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
-
-![Screenshot (28)](https://user-images.githubusercontent.com/102009481/177788412-1f515f71-0654-4a26-9c05-f3598f4f034d.png)
 
 
 
@@ -18,8 +15,8 @@
 <h4>Executable Files:</h4>
 <ul>
   
-  <li><b>mobile_price_range_prediction_Apoorva_KR.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
-  <li><b>final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
+  <li><b>mobile_price_range_prediction.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
+  <li><b>final_notebook_mobile_price_range_prediction.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
 </ul>
 
 <h4>Output Files:</h4>
@@ -63,7 +60,7 @@
 <p>The order of execution of the program files is as follows:</p>
 
 
-<p><b>1) final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b></p>
+<p><b>1) final_notebook_mobile_price_range_prediction.ipynb</b></p>
 <p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
@@ -75,20 +72,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
 
-< Apoorva KR > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-r-gowda/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apoorvaKR12695)
-
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
 <ul>
   <li><p>'Mobile Price Prediction Using Machine Learning Blog' . [Online].</p>
